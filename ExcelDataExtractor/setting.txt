@@ -1,0 +1,15 @@
+{
+    "excel_folder" : "../TargetExcels/Data",
+	"excel_string_folder" : "../TargetExcels/String",
+	
+	"locale_codes" : [ "ko", "en", "cn", "jp" ],
+	
+	"result_json_folder" : "../../AssetPacks/Essential/ExcelTables/Data",
+	"result_only_json_folder" : "../../AssetPacks/Essential/ExcelTables/OnlyJson",
+	"result_string_json_folder" : "../../AssetPacks/Essential/ExcelTables/String",
+	
+    "result_csharp_folder" : "../../Script/ExcelTable/Exported",
+	
+    "log_folder" : "../ExtractLog",
+	"extract_data_only" : 0
+}
